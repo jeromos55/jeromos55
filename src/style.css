@@ -1,0 +1,23 @@
+body {
+  background-color: #000;
+}
+.box {
+  background-color: #fff;
+  width: 90%;
+  margin: 5% auto;
+  padding: 1em 0;
+  border-radius: 2em;
+}
+.image1 {
+  width: 100%;
+}
+h1 {
+  margin: 0 1em 0.2em 1em;
+  padding-bottom: 0.1em;
+}
+.article {
+  column-width: 200px;
+  column-gap: 2em;
+  column-rule: 1px solid #000;
+  margin: 0 2em;
+}
