@@ -1,7 +1,7 @@
 # Hi I'am Robert Radnoti
 I’m want to be frontend programmer so I’m currently learning javascript and react projects..
 
-# I have work experience with to:
+# I have work experience with in these things:
 
 ## Frontend: 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="40"/></a>
