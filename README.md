@@ -5,14 +5,14 @@ I’m want to be frontend programmer so I’m currently learning javascript and 
 
 ## Frontend: 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="40"/></a>
-<a href="https://www.w3.org/javascript/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="40"/></a>
-<a href="https://www.w3.org/javascript/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="40"/></a>
-<a href="https://www.w3.org/javascript/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/></a> 
+<a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="40"/></a>
+<a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="40"/></a>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/></a> 
 
 ## Backend: 
-<a href="https://www.w3.org/javascript/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50" width="50"/></a>
-<a href="https://www.w3.org/javascript/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  height="60" width="60"/></a>
-<a href="https://www.w3.org/javascript/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" width="60"/></a>
+<a href="https://www.w3schools.com/php/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50" width="50"/></a>
+<a href="https://www.w3schools.com/mysql/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  height="60" width="60"/></a>
+<a href="https://www.w3schools.com/nodejs/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" width="60"/></a>
 
 ## Others:  
 <a href="https://www.w3.org/javascript/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40"/></a>
