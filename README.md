@@ -1,4 +1,4 @@
-# Hi I'am Robert Radnoti
+# Hiiii I'am Robert Radnoti
 I’m want to be frontend programmer so I’m currently learning javascript and react projects..
 
 # I have work experience with in these things:
