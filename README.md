@@ -1,5 +1,23 @@
-# Hi I'am Robert Radnoti
-I’m want to be frontend programmer so I’m currently learning javascript and react projects..
+# Hi I'm Robert Radnoti
+
+EXPERIENCE
+Adobe CC programs, C#, .net (WPF, Win Form, OOP, MSSQL, MYSQL) OKJ software development course and exams, HTML, CSS (SCSS), JavaScript, PHP, Parcel, Vite, Webpack, Node.js (npm, pnpm , yarn), Docker, approx. 2 years of hobby projects in the field, C, C++, I used these previously in a Linux environment. 1.5 years as an entrepreneur. I currently work using Windows, OSX, and Linux environments, but I also regularly use iOS (iPad), Android (mobile), operating systems for my purposes.
+
+PREVIOUS WORKS
+https://www.jeromos55.com
+http://www.identityjatek-11ker.com
+https://www.eletfacsoport.hu
+https://www.sololearn.com/Profile/4734666
+
+ABOUT ME
+For a long time I thought of this as a hobby. I mostly used my 
+knowledge to help friends and family members. In addition to my 
+work, I also completed some courses (linked on the side) related to 
+programming and also dealt with web development.
+I am most interested in frontend developement, I would like to gain 
+experience in this and take up a job. I hope to find a workplace 
+where my work can also be my passion, to deal with what I see 
+perspective in.
 
 # I have work experience with in these things:
 
