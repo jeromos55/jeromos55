@@ -13,10 +13,10 @@ https://www.sololearn.com/Profile/4734666 <br>
 For a long time I thought of this as a hobby. I mostly used my knowledge to help friends and family members. In addition to my work, I also completed some courses related to 
 programming and also dealt with web development. I am most interested in frontend developement, I would like to gain experience in this and take up a job. I hope to find a workplace where my work can also be my passion, to deal with what I see perspective in.
 
-# I have work experience with in these things:
 
-## Frontend: 
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="40"/></a>
+> **I HAVE WORK EXPERIENCE WITH IN THESE THINGS**
+
+>> **Frontend:** <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="40"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/></a> 
