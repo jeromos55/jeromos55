@@ -16,8 +16,8 @@ https://guess-my-number-jeromos55.netlify.app/ --> This is a guess my number gam
 https://pig-game-jeromos55.netlify.app --> This is a pig game.  <br>
 https://modal-jeromos55.netlify.app --> Modal with javascript. <br>
 
-https://www.jeromos55.com <br> --> This is my first web page but old and not correct yet. I haven't had the time so far to modify.
-http://www.identityjatek-11ker.com <br> --> This website of one of my wife's businesses.
+https://www.jeromos55.com <br> --> This is my first web page but old and not correct yet. I haven't had the time so far to modify.  <br>
+http://www.identityjatek-11ker.com <br> --> This website of one of my wife's businesses.  <br>
 https://www.eletfacsoport.hu <br>
 https://www.sololearn.com/Profile/4734666 <br>
 
