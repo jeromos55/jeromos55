@@ -8,13 +8,13 @@ programming and also dealt with web development. I am most interested in fronten
 Adobe CC programs, C#, .net (WPF, Win Form, OOP, MSSQL, MYSQL) OKJ software development course and exams, HTML, CSS (SCSS), JavaScript, PHP, Parcel, Vite, Webpack, Node.js (npm, pnpm , yarn), Docker, approx. 2 years of hobby projects in the field, C, C++, I used these previously in a Linux environment. 1.5 years as an entrepreneur. I currently work using Windows, OSX, and Linux environments, but I also regularly use iOS (iPad), Android (mobile), operating systems for my purposes.
 
 **PREVIOUS WORKS**<br>
-https://forkify-jeromos55.netlify.app --> Please enter a food type in the search box. <br>
-https://bankist-frontend-jeromos55.netlify.app --> This is theoretical bankist website frontend.  <br>
-https://bankist-jeromos55.netlify.app --> Please enter user: jd and pin: 2222 and try the transfer money, request loan, close account functions.  <br>
-https://mapty-jeromos55.netlify.app --> Please click the map and enter the form and press enter.  <br>
-https://guess-my-number-jeromos55.netlify.app/ --> This is a guess my number game. Please enter a number the white border and check it.  <br>
-https://pig-game-jeromos55.netlify.app --> This is a pig game.  <br>
-https://modal-jeromos55.netlify.app --> Modal with javascript. <br>
+https://forkify-jeromos55.netlify.app  <br> Please enter a food type in the search box. <br>
+https://bankist-frontend-jeromos55.netlify.app  <br> This is theoretical bankist website frontend.  <br>
+https://bankist-jeromos55.netlify.app  <br> Please enter user: jd and pin: 2222 and try the transfer money, request loan, close account functions.  <br>
+https://mapty-jeromos55.netlify.app  <br> Please click the map and enter the form and press enter.  <br>
+https://guess-my-number-jeromos55.netlify.app/  <br>This is a guess my number game. Please enter a number the white border and check it.  <br>
+https://pig-game-jeromos55.netlify.app  <br> This is a pig game.  <br>
+https://modal-jeromos55.netlify.app  <br> Modal with javascript. <br>
 
 https://www.jeromos55.com <br> --> This is my first web page but old and not correct yet. I haven't had the time so far to modify.  <br>
 http://www.identityjatek-11ker.com <br> --> This website of one of my wife's businesses.  <br>
