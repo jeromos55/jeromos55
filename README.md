@@ -10,13 +10,13 @@ Adobe CC programs, C#, .net (WPF, Win Form, OOP, MSSQL, MYSQL) OKJ software deve
 **PREVIOUS WORKS**<br>
 
 
-https://forkify-jeromos55.netlify.app --> Please enter a food type in the search box.
-https://bankist-frontend-jeromos55.netlify.app --> This is theoretical bankist website frontend.
-https://bankist-jeromos55.netlify.app --> Please enter user: jd and pin: 2222 and try the transfer money, request loan, close account functions
-https://mapty-jeromos55.netlify.app --> Please click the map and enter the form and press enter
-https://guess-my-number-jeromos55.netlify.app/ --> This is a guess my number game. Please enter a number the white border and check it.
-https://pig-game-jeromos55.netlify.app --> This is a pig game.
-https://modal-jeromos55.netlify.app --> Modal with javascript.
+https://forkify-jeromos55.netlify.app --> Please enter a food type in the search box. <br>
+https://bankist-frontend-jeromos55.netlify.app --> This is theoretical bankist website frontend.  <br>
+https://bankist-jeromos55.netlify.app --> Please enter user: jd and pin: 2222 and try the transfer money, request loan, close account functions.  <br>
+https://mapty-jeromos55.netlify.app --> Please click the map and enter the form and press enter.  <br>
+https://guess-my-number-jeromos55.netlify.app/ --> This is a guess my number game. Please enter a number the white border and check it.  <br>
+https://pig-game-jeromos55.netlify.app --> This is a pig game.  <br>
+https://modal-jeromos55.netlify.app --> Modal with javascript. <br>
 
 https://www.jeromos55.com <br>
 http://www.identityjatek-11ker.com <br>
