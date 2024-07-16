@@ -8,6 +8,7 @@ programming and also dealt with web development. I am most interested in fronten
 Adobe CC programs, C#, .net (WPF, Win Form, OOP, MSSQL, MYSQL) OKJ software development course and exams, HTML, CSS (SCSS), JavaScript, PHP, Parcel, Vite, Webpack, Node.js (npm, pnpm , yarn), Docker, approx. 2 years of hobby projects in the field, C, C++, I used these previously in a Linux environment. 1.5 years as an entrepreneur. I currently work using Windows, OSX, and Linux environments, but I also regularly use iOS (iPad), Android (mobile), operating systems for my purposes.
 
 **PREVIOUS WORKS**<br>
+https://forkify-jeromos55.netlify.app <br>
 https://www.jeromos55.com <br>
 http://www.identityjatek-11ker.com <br>
 https://www.eletfacsoport.hu <br>
