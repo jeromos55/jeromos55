@@ -8,7 +8,16 @@ programming and also dealt with web development. I am most interested in fronten
 Adobe CC programs, C#, .net (WPF, Win Form, OOP, MSSQL, MYSQL) OKJ software development course and exams, HTML, CSS (SCSS), JavaScript, PHP, Parcel, Vite, Webpack, Node.js (npm, pnpm , yarn), Docker, approx. 2 years of hobby projects in the field, C, C++, I used these previously in a Linux environment. 1.5 years as an entrepreneur. I currently work using Windows, OSX, and Linux environments, but I also regularly use iOS (iPad), Android (mobile), operating systems for my purposes.
 
 **PREVIOUS WORKS**<br>
-https://forkify-jeromos55.netlify.app <br>
+
+
+https://forkify-jeromos55.netlify.app --> Please enter a food type in the search box.
+https://bankist-frontend-jeromos55.netlify.app --> This is theoretical bankist website frontend.
+https://bankist-jeromos55.netlify.app --> Please enter user: jd and pin: 2222 and try the transfer money, request loan, close account functions
+https://mapty-jeromos55.netlify.app --> Please click the map and enter the form and press enter
+https://guess-my-number-jeromos55.netlify.app/ --> This is a guess my number game. Please enter a number the white border and check it.
+https://pig-game-jeromos55.netlify.app --> This is a pig game.
+https://modal-jeromos55.netlify.app --> Modal with javascript.
+
 https://www.jeromos55.com <br>
 http://www.identityjatek-11ker.com <br>
 https://www.eletfacsoport.hu <br>
