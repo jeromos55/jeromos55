@@ -9,7 +9,7 @@ Adobe CC programs, C#, .net (WPF, Win Form, OOP, MSSQL, MYSQL) OKJ software deve
 
 **PREVIOUS WORKS**<br>
 
-**JAVASCRIPT**
+**JAVASCRIPT**  <br>
 https://forkify-jeromos55.netlify.app  <br> Please enter a food type in the search box. <br>
 https://bankist-frontend-jeromos55.netlify.app  <br> This is theoretical bankist website frontend.  <br>
 https://bankist-jeromos55.netlify.app  <br> Please enter user: jd and pin: 2222 and try the transfer money, request loan, close account functions.  <br>
@@ -18,7 +18,7 @@ https://guess-my-number-jeromos55.netlify.app/  <br>This is a guess my number ga
 https://pig-game-jeromos55.netlify.app  <br> This is a pig game.  <br>
 https://modal-jeromos55.netlify.app  <br> Modal with javascript. <br>
 
-**OTHER**
+**OTHER**  <br>
 https://www.jeromos55.com <br> --> This is my first web page but old and not correct yet. I haven't had the time so far to modify.  <br>
 http://www.identityjatek-11ker.com <br> --> This website of one of my wife's businesses.  <br>
 https://www.eletfacsoport.hu <br>
