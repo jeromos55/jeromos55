@@ -22,7 +22,7 @@ https://modal-jeromos55.netlify.app  <br> Modal with javascript. <br>
 https://www.jeromos55.com <br> --> This is my first web page but old and not correct yet. I haven't had the time so far to modify.  <br>
 http://www.identityjatek-11ker.com <br> --> This website of one of my wife's businesses.  <br>
 https://www.eletfacsoport.hu <br>  <br>
-https://www.sololearn.com/Profile/4734666 <br> --> This is social programing and learning platform. I have a profile on it. Please visit it. :)
+https://www.sololearn.com/Profile/4734666 <br> --> This is social programing and learning platform. I have a profile on it. Please visit it too. :)
 
 **I HAVE WORK EXPERIENCE WITH IN THESE THINGS**
 
