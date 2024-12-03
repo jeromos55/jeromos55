@@ -24,6 +24,9 @@ http://www.identityjatek-11ker.com <br> --> This website of one of my wife's bus
 https://www.eletfacsoport.hu <br>  <br>
 https://www.sololearn.com/Profile/4734666 <br> --> This is social programing and learning platform. I have a profile on it. Please visit it too. :)
 
+**CONTACT DETAILS**<br>
+jeromos55@gmail.com
+
 **I HAVE WORK EXPERIENCE WITH IN THESE THINGS**
 
 Frontend: <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="20" width="20"/></a>
